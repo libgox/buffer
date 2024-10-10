@@ -1,4 +1,4 @@
-module buffer
+module github.com/libgox/buffer
 
 go 1.17
 
